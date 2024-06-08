@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-color: #00ffff;
+    font-family: "Montserrat";
+}
+
+.txt-color1 {
+    font-size: 40px;
+}
+
+.h2-txt, .div1 {
+    color: #ff69b4;
+    text-align: center;
+}
+
+.ul-txt {
+    color: #ff69b4;
+}
+
+.div2 {
+    font-size: 20px;
+}
+
+button {
+    background-color: #00ffff;
+    color: #ff69b4;
+    border-radius: 6px;
+    font-size: 20px;
+}
